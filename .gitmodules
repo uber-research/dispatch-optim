@@ -1,0 +1,3 @@
+[submodule "third_party/brezel"]
+	path = third_party/brezel
+	url = git@github.com:uber/brezel.git
